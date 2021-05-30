@@ -7,7 +7,7 @@
 Tnx ❤
 
 
-<img src="https://discord.c99.nl/widget/theme-1/556854910805737478.png" >
+<img src="https://discord.c99.nl/widget/theme-2/556854910805737478.png" >
 
 <!---
 hesawmgh1098/hesawmgh1098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
