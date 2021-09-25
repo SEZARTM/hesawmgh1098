@@ -5,8 +5,8 @@
  <p align="center">  🌱 I’m currently learning Js and work on Hagh Bot </p>
   <p align="center">  My website : https://hesawmgh1098.github.io </p>
 
-
-
+   <h1 align="front"></h1>
+<img alt="Spotify" src="https://nowplaying.aidenwallis.co.uk/614ed3545a8950702c3aec56"  height="70px" width="350px" >
 <br>
 
 <h1 align="center">🛠️ My Tools </h1>
